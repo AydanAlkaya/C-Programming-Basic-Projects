@@ -14,3 +14,6 @@ Prints that the string entered by the user is palindrome or not.
 
 ## uzaklik_hesaplama.c
 Calculates the distance between two points.
+
+## ort_hesaplama.c
+Calculates the average of the entered numbers.
