@@ -17,3 +17,6 @@ Calculates the distance between two points.
 
 ## ort_hesaplama.c
 Calculates the average of the entered numbers.
+
+## kombinasyon_hesaplama.c
+Factorial and combination calculator.
