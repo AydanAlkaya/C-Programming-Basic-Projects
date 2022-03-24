@@ -20,3 +20,6 @@ Calculates the average of the entered numbers.
 
 ## kombinasyon_hesaplama.c
 Factorial and combination calculator.
+
+## dizge.c
+Prints how many letters the entered string contains.
