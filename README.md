@@ -11,3 +11,6 @@ Try to find the number randomly chosen by the computer!
 
 ## palindrom.c
 Prints that the string entered by the user is palindrome or not.
+
+## uzaklik_hesaplama.c
+Calculates the distance between two points.
