@@ -54,7 +54,7 @@ void kucuktenBuyuge(int dizi[10], int boyut){
 
 void buyuktenKucuge(int dizi[10], int boyut){
 	int i, j;
-	for(i = 0; mi < boyut-1; i++)
+	for(i = 0; i < boyut-1; i++)
 		for(j = i+1; j < boyut; j++)
 			if (dizi[i] < dizi[j])
 			 yerDegistir(&dizi[i], &dizi[j]);
