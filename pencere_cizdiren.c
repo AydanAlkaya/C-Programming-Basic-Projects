@@ -21,16 +21,19 @@ int main(void){
 void pencereCiz(int y, int g, char c){
 	int i, j;
 	printf("\n");
-	for(i = 1;i <= g;i++)
+	
+	for(i = 1; i <= g; i++)
 		printf("%c", c);
 		printf("\n");
-	for(i = 1;i <= y-2;i++){
+		
+	for(i = 1; i <= y-2; i++){
 		printf("%c", c);
-		for(j = 1;j <= g-2;j++)
+	
+		for(j = 1; j <= g-2; j++)
 		printf(" ");
 		printf("%c\n", c);
 	}
-	for(i = 1;i <= g;i++)
+	for(i = 1; i <= g; i++)
 		printf("%c", c);
 		printf("\n");
 }
