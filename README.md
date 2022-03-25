@@ -23,3 +23,6 @@ Factorial and combination calculator.
 
 ## dizge.c
 Prints how many letters the entered string contains.
+
+## b_y_siralama.c
+Sorts the array at the specified option.
